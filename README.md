@@ -51,6 +51,3 @@ The HR Analytics Dashboard enables organizations to leverage data for strategic 
 
 ---
 
-## 🔗 Project Links
-- GitHub Repository: (Add your repo link)
-- Power BI Dashboard: (Add your published link)
